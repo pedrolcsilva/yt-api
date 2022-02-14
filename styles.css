@@ -1,0 +1,10 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  background-color: rgb(240, 240, 240);
+}
+
+#title {
+  color: rgb(226, 69, 30);
+  /* color: rgb(73, 73, 73); */
+}
